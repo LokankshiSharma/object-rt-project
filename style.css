@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+h1{
+ width: 800px;
+ height: 65px;
+font-weight: bold;
+font-family: 'Dancing Script', cursive;
+font-size: 8000px;
+}
+.bangtan{
+width: 600px;
+height: 40px;
+border-radius: 20px;
+}
+.bp{
+    width: 600px;
+    height: 40px;
+    border-radius: 20px;
+    }
+.ls{
+    width: 600px;
+    height: 40px;
+    border-radius: 20px;
+}
+.nj{
+    width: 600px;
+    height: 40px;
+    border-radius: 20px;
+}
+.bd{
+    width: 600px;
+    height: 40px;
+    border-radius: 20px;
+}
